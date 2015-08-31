@@ -9,7 +9,7 @@ return array(
     'DB_USER'       => 'root',
     'DB_PASSWORD'   => 'root',
     'DB_HOST'       => 'localhost:8889',
-    'WP_HOME'       => 'http://localhost:8888/store/htdocs/',
-    'WP_SITEURL'    => 'http://localhost:8888/store/htdocs/cms'
+    'WP_HOME'       => 'http://localhost:8888/dstore/htdocs/',
+    'WP_SITEURL'    => 'http://localhost:8888/dstore/htdocs/cms'
 
 );
