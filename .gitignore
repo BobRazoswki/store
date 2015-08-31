@@ -16,7 +16,7 @@ composer.lock
 /htdocs/content/themes/themosis-theme/
 /htdocs/content/uploads/
 /htdocs/content/upgrade/
-/htdocs/content/themes/DettacheeStoreSB/config/node_modules
+/htdocs/content/themes/dstore/config/node_modules
 
 ### Environment Credentials
 .env.*.php
